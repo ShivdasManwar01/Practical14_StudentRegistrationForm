@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="subjects">
+        <item>FOC</item>
+        <item>AD</item>
+        <item>DM</item>
+        <item>DBM</item>
+        <item>IAE</item>
+    </array>
+</resources>
